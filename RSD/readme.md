@@ -1,9 +1,9 @@
-1.You need to download dataset in ....  unzip it, and put it into RSD/RSD_dataset (Required)
+1.You need to download dataset in (https://send.now/bkxrm4e5czju)  unzip it, and put it into RSD/RSD_dataset (Required)
     example:RSD/RSD_dataset/binary_classification/Broken Hierarchy_test.jsonl
-2.You could download pretreatment in ....  unzip it(Recomended), and put it into RSD/RSD_pretreatment, or you need to download distilbert-base-uncased and put it in to RSD/model/distilbert-base-uncased and wait a few time.
+2.You could download pretreatment in (https://send.now/bkxrm4e5czju)  unzip it(Recomended), and put it into RSD/RSD_pretreatment, or you need to download distilbert-base-uncased and put it in to RSD/model/distilbert-base-uncased and wait a few time.
     example:RSD/RSD_pretreatment/binary_classification_Broken Hierarchy_test/cls.pth
 
-3.You could download original github repository in ....(Optional)
+3.You could download original github repository in (https://send.now/bkxrm4e5czju)(Optional)
 
 4.You can run the training program:  In the repo_smell_upstream directory, 
     setting RSD/train_2.py's binary_train()'s benchmark = 'train'
